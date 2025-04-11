@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hi, I'm Jonathon 
+
+## 👨‍🔧 Current Projects
+
+## 🤝 Connect With Me
+ [LinkedIn](https://www.linkedin.com/in/jonathon-shea-025b3014a/)
 
 <!--
 **JonathonShea/JonathonShea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
